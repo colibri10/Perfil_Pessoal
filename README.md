@@ -54,7 +54,7 @@ O projeto foi criado para fins acadêmicos, seguindo os requisitos solicitados p
 
 #### Tela Inicial
 
-Perfil_Pessoal/telaprincipal.png
+telaprincipal.png
 
 
 
@@ -77,6 +77,7 @@ Perfil_Pessoal/telaprincipal.png
 
 
 **Matheus Nascimento**; Mateus Galvão; Sarah Genebra; Mariana Cirilo
+
 
 
 
