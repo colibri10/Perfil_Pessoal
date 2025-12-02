@@ -60,13 +60,13 @@ O projeto foi criado para fins acadêmicos, seguindo os requisitos solicitados p
 
 #### Tela de Edição
 
-[TelaEdicao.png](https://github.com/colibri10/Perfil_Pessoal/blob/main/telaprincipal.png)
+[TelaEdicao](https://github.com/colibri10/Perfil_Pessoal/blob/main/telaprincipal.png)
 
 
 
 ### Demonstração em Vídeo
 
-
+[Video]https://github.com/colibri10/Perfil_Pessoal/blob/main/vdopmandar.mp4
 
 
 
@@ -77,6 +77,7 @@ O projeto foi criado para fins acadêmicos, seguindo os requisitos solicitados p
 
 
 **Matheus Nascimento**; Mateus Galvão; Sarah Genebra; Mariana Cirilo
+
 
 
 
