@@ -54,7 +54,7 @@ O projeto foi criado para fins acadêmicos, seguindo os requisitos solicitados p
 
 #### Tela Inicial
 
-telaprincipal.png
+[telaprincipal.png](https://github.com/colibri10/Perfil_Pessoal/blob/main/telaprincipal.png)
 
 
 
@@ -77,6 +77,7 @@ telaprincipal.png
 
 
 **Matheus Nascimento**; Mateus Galvão; Sarah Genebra; Mariana Cirilo
+
 
 
 
