@@ -76,7 +76,8 @@ O projeto foi criado para fins acadêmicos, seguindo os requisitos solicitados p
 
 
 
-**Matheus Nascimento**; Mateus Galvão; Sarah Genebra; Mariana Cirilo
+**Desenvolvido por:** **Matheus Nascimento**; Mateus Galvão; Sarah Genebra; Mariana Cirilo
+
 
 
 
