@@ -66,7 +66,7 @@ O projeto foi criado para fins acadêmicos, seguindo os requisitos solicitados p
 
 ### Demonstração em Vídeo
 
-<video src="vdopmandar.mp4" alt="vdo" width="200"/>
+<gif src="vdopmandar.mp4" alt="vdo" width="200"/>
 
 
 
@@ -77,6 +77,7 @@ O projeto foi criado para fins acadêmicos, seguindo os requisitos solicitados p
 
 
 **Matheus Nascimento**; Mateus Galvão; Sarah Genebra; Mariana Cirilo
+
 
 
 
