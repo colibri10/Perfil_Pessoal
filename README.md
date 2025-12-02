@@ -66,7 +66,7 @@ O projeto foi criado para fins acadêmicos, seguindo os requisitos solicitados p
 
 ### Demonstração em Vídeo
 
-[Video]https://github.com/colibri10/Perfil_Pessoal/blob/main/vdopmandar.mp4
+[Video](https://github.com/colibri10/Perfil_Pessoal/blob/main/vdopmandar.mp4)
 
 
 
@@ -77,6 +77,7 @@ O projeto foi criado para fins acadêmicos, seguindo os requisitos solicitados p
 
 
 **Matheus Nascimento**; Mateus Galvão; Sarah Genebra; Mariana Cirilo
+
 
 
 
